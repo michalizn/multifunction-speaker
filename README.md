@@ -1,5 +1,5 @@
 # Multifunction speaker with wireless connectivity
-
+![multifunction speaker](https://github.com/michalizn/multifunction_speaker/blob/main/images/app_bms.PNG)
 ## Usage
 
 Prepare the audio board:
