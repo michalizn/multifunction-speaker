@@ -1,10 +1,8 @@
 # Multifunction speaker with wireless connectivity
 ![multifunction speaker](https://github.com/michalizn/multifunction_speaker/blob/main/images/app_bms.PNG)
-## Usage
 
-Prepare the audio board:
-
-- Connect speakers or headphones to the board.
+## Audio board
+![esp32-lyrat-mini](https://github.com/michalizn/multifunction_speaker/blob/main/images/esp32-lyrat-mini-v1.2-layout.png)
 
 Configure the example:
 
