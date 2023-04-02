@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"audio_pipeline.h": "c",
+			"nvs_flash.h": "c",
+			"*.inc": "c"
+		}
+	}
+}
