@@ -135,8 +135,8 @@ CONFIG_PARTITION_TABLE_MD5=y
 #
 # Example Configuration
 #
-CONFIG_WIFI_SSID="Barankovi_UNIFI"
-CONFIG_WIFI_PASSWORD="jurabar6"
+CONFIG_WIFI_SSID="xxx"
+CONFIG_WIFI_PASSWORD="xxx"
 # end of Example Configuration
 
 #
