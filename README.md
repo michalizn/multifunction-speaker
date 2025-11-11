@@ -191,8 +191,7 @@ Include:
 
 ## License
 
-No license file yet.  
-Consider adding MIT, Apache-2.0, or BSD-3-Clause.
+No license
 
 ---
 
@@ -200,4 +199,5 @@ Consider adding MIT, Apache-2.0, or BSD-3-Clause.
 
 - Espressif ESP-IDF and ESP-ADF  
 - Original ADF HTTP-MP3 example pattern this project builds upon
+
 
